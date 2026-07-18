@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-## About Me
+
+### About Me
 
 I'm a Computer Engineering student building a long-term career in **Cloud Security**. Rather than chasing a single certification or a single job title, I'm treating this as a discipline to grow into: understand how systems get attacked and monitored first, then move into designing and defending the cloud infrastructure those systems run on.
 
