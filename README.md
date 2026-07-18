@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0b2545,100:1f6feb&height=320&section=header&text=Powered%20by%20Coffee.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0b2545,100:1f6feb&height=220&section=header&text=Powered%20by%20Coffee.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 
 ### Learning in public. Building in public.
 
@@ -14,10 +14,7 @@
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
 </div>
-
 ## About Me
 
 I'm a Computer Engineering student building a long-term career in **Cloud Security**. Rather than chasing a single certification or a single job title, I'm treating this as a discipline to grow into: understand how systems get attacked and monitored first, then move into designing and defending the cloud infrastructure those systems run on.
