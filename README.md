@@ -15,11 +15,15 @@
   </a>
 </div>
 
-### About Me
+<div align="center">
 
-I'm a Computer Engineering student building a long-term career in **Cloud Security**. Rather than chasing a single certification or a single job title, I'm treating this as a discipline to grow into: understand how systems get attacked and monitored first, then move into designing and defending the cloud infrastructure those systems run on.
+##  About Me
 
-This repository is my working roadmap — not a course I'll finish and forget, but a track record I intend to keep updating for as long as I'm in this field.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Abdirhman.;Computer+Engineering+student.;Exploring+Cybersecurity+and+Cloud+Security.;Currently+arguing+with+my+firewall+rules.;One+commit+at+a+time."/>
+
+</div>
+
+<br/>
 
 ```yaml
 name: Abdirhman Ahmed
