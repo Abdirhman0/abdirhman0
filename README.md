@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0b2545,100:1f6feb&height=220&section=header&text=Powered%20by%20Coffee.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 
 ### Learning in public. Building in public.
@@ -24,11 +23,10 @@ This repository is my working roadmap — not a course I'll finish and forget, b
 ```yaml
 name: Abdirhman Ahmed
 field: Computer Engineering
-current_stage: Security Operations (SOC) fundamentals
-long_term_target: Cloud Security Engineer / Cloud Security Architect
+current_stage: Security Operations (SOC) 
+long_term_target: Cloud Security Engineer
 approach: "Labs over lectures. If I can't show it, I don't count it as learned."
 ```
-
 <br/>
 
 ## Mindset
@@ -67,10 +65,3 @@ I'm always open to conversations about security operations, cloud security, or i
 - **LinkedIn:** [Abdirhman Ahmed](https://www.linkedin.com/in/abdirhman-ahmed-10ba073a3/)
 - **GitHub (Primary):** [Abdirhman0](https://github.com/Abdirhman0)
 - **GitHub (Secondary):** [a-cs0](https://github.com/a-cs0)
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
-<sub>SOC first. Cloud security architecture eventually. Documenting the whole climb.</sub>
-</div>
