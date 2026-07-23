@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0b2545,100:1f6feb&height=220&section=header&text=Powered%20by%20Coffee.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 
 ### Learning in public. Building in public.
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdirhman-ahmed-10ba073a3/">
