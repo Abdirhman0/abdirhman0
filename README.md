@@ -42,16 +42,6 @@ approach: "Labs over lectures. If I can't show it, I don't count it as learned."
 - Progress over perfection.
 
 
-
-## 🚀 Featured Projects
-
-* **[Cloud-Security-Hardening](#)** — Documentation and scripts for securing AWS/Azure resources following least-privilege principles.
-* **[Automated-Net-Tool](#)** — A Python-based tool for network scanning and diagnostics.
-* **[Internship-Readiness-Log](#)** — An ongoing tracker of technical growth, lab completions, and lessons learned.
-* **[SOC-Lab-Notes](#)** *(in progress)* — Alert triage logs, detection rules, and investigation writeups from SOC training.
-
-<br/>
-
 ## 📊 GitHub Activity
 
 <div align="center">
